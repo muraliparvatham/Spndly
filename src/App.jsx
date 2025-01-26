@@ -1,6 +1,6 @@
 import { useState } from "react";
 import "./index.css";
-import Expense from "./expense";
+import Expense from "./Expense";
 
 export default function App() {
   return (
